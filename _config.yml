@@ -5,9 +5,10 @@ url: ""
 baseurl: ""
 lang: en
 
-theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
