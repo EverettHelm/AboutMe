@@ -1,8 +1,8 @@
 title: Everett Helm
 email: you@example.com
 description: Personal site and blog for Everett Helm.
-url: ""
-baseurl: ""
+url: "https://everetthelm.github.io"
+baseurl: "/AboutMe"
 lang: en
 
 accent_image: /assets/img/sidebar-bg.jpg
