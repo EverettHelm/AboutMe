@@ -6,8 +6,6 @@ permalink: /about/
 
 ## About Me
 
-<div class="content-section content-section--muted">
-
 I suppose I should formally introduce myself,  
 
 I am a fourth year undergraduate student at The Ohio State University with a double major in Physics and Astronomy. I will be graduating in SP27 with a honors degree with research distinction in Physics & Astronomy. 
@@ -16,11 +14,7 @@ I work with Dr. Kaeli Hughes on multiple projects on cosmic ray and ultra high e
 
 When I am not studying or working I have an array of hobbies from traveling, music, climbing and more! Blogs about my trips and hobbies can be found below in "My Joy and Whimsy"
 
-</div>
-
 ## My Research
-
-<div class="content-section content-section--muted">
 
 ### DAAD-RISE Intern at Johannes Gutenberg-Universität Mainz, Germany
 
@@ -50,8 +44,6 @@ I assist PhD canadite, Payton Linton, in simulations exploring how electromagnet
 #### Dr. Chris Orbans's Lab (Jun 2024 - Aug 2024)
 
 - Collected data to train a machine learning algorithm for pulsed laser experimental setups. 
-
-</div>
 
 
 
