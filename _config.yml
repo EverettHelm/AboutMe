@@ -1,5 +1,5 @@
 title: Everett Helm
-email: you@example.com
+email: Everetthelm3@gmail.com
 description: Personal site and blog for Everett Helm.
 url: "https://everetthelm.github.io"
 baseurl: "/AboutMe"
@@ -19,6 +19,15 @@ plugins:
 
 author:
   name: Everett Helm
+  email: Everetthelm3@gmail.com
+  social:
+    - github: EverettHelm
+    - linkedin: https://linkedin.com/in/everett-helm-730131282
+
+data_social:
+  linkedin:
+    name: LinkedIn
+    icon: icon-linkedin
 
 menu:
   - title: Home
