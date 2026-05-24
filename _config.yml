@@ -1,0 +1,34 @@
+title: Everett Helm
+email: you@example.com
+description: Personal site and blog for Everett Helm.
+url: ""
+baseurl: ""
+lang: en
+
+theme: jekyll-theme-hydejack
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: Everett Helm
+
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+hydejack:
+  no_push_state: false
+  no_drawer: false
+  no_navbar: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
