@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-{% assign docs = site.pages | concat: site.posts | where_exp: "item", "item.url != '/search/' and item.url != '/404.html' and item.url != '/feed.xml'" %}
+{% assign docs = site.pages | concat: site.posts | where_exp: "item", "item.url != '/search/'" | where_exp: "item", "item.url != '/404.html'" | where_exp: "item", "item.url != '/feed.xml'" %}
 {% for doc in docs %}
   {
     "title": {{ doc.title | default: doc.name | jsonify }},
