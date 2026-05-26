@@ -30,7 +30,7 @@ Published paper: Insert at end of summer
 
 <div markdown="1" style="padding-left: 2em;">
 
-##### RNO-G 
+    RNO-G 
   <p style="margin-left: 1.25em; text-indent: 1.25em; margin: 0 0 1em 0;">
     The Radio Neutrino Observatory in Greenland (RNO-G) is an in ice neutrino detector that aims to detect ultra high energy neutrinos. 
 
@@ -40,14 +40,16 @@ Published paper: Insert at end of summer
 
   </p>
 
-##### CoRaLS
+    CoRaLS
   <p style="margin-left: 1.25em; text-indent: 1.25em; margin: 0 0 1em 0;">
     The COsmic RAy Lunar Satalite (Corals) aims to detect giga-ton deposits of water-ice underneath the lunar surface near the poles of the moon by probing underneath the surface with cosmic ray interactions. 
 
     I assist PhD canadite, Payton Linton, in simulations exploring how electromagnetic pulses propiagte through the lunar regolith and how varying rock distribution models would effect resulting signals. 
   </p>
+</div>
 
-#### Dr. Chris Orbans's Lab (Jun 2024 - Aug 2024)
+Dr. Chris Orbans's Lab (Jun 2024 - Aug 2024)
+<div markdown="1" style="padding-left: 2em;">
   <p style="margin-left: 1.25em; text-indent: 1.25em; margin: 0 0 1em 0;">
     Collected data to train a machine learning algorithm for pulsed laser experimental setups. 
   </p>
