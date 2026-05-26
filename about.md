@@ -28,24 +28,30 @@ Published paper: Insert at end of summer
 
 #### Dr. Kaeli Hughes' Lab (Apr 2025 - Current)
 
+<div style="padding-left: 2em;">
+
 ##### RNO-G 
-The Radio Neutrino Observatory in Greenland (RNO-G) is an in ice neutrino detector that aims to detect ultra high energy neutrinos. 
+  <p style="text-indent: 1.5em; margin 0 0 1em 0;">
+    The Radio Neutrino Observatory in Greenland (RNO-G) is an in ice neutrino detector that aims to detect ultra high energy neutrinos. 
 
-My current work is improving the horizontally polarized antenna for the deep ice antennas. This antenna exploration is primarily done through XFdtd (an electromagnetic finite time domain simulation) to improve upon the current proposed designs. 
+    My current work is improving the horizontally polarized antenna for the deep ice antennas. This antenna exploration is primarily done through XFdtd (an electromagnetic finite time domain simulation) to improve upon the current proposed designs. 
 
-Published work soon?????????
+    Published work soon?????????
+
+  </p>
 
 ##### CoRaLS
-The COsmic RAy Lunar Satalite (Corals) aims to detect giga-ton deposits of water-ice underneath the lunar surface near the poles of the moon by probing underneath the surface with cosmic ray interactions. 
+  <p style="text-indent: 1.5em; margin 0 0 1em 0;">
+    The COsmic RAy Lunar Satalite (Corals) aims to detect giga-ton deposits of water-ice underneath the lunar surface near the poles of the moon by probing underneath the surface with cosmic ray interactions. 
 
-I assist PhD canadite, Payton Linton, in simulations exploring how electromagnetic pulses propiagte through the lunar regolith and how varying rock distribution models would effect resulting signals. 
-
+    I assist PhD canadite, Payton Linton, in simulations exploring how electromagnetic pulses propiagte through the lunar regolith and how varying rock distribution models would effect resulting signals. 
+  </p>
 
 #### Dr. Chris Orbans's Lab (Jun 2024 - Aug 2024)
-
-- Collected data to train a machine learning algorithm for pulsed laser experimental setups. 
-
-
+  <p style="text-indent: 1.5em; margin 0 0 1em 0;">
+    Collected data to train a machine learning algorithm for pulsed laser experimental setups. 
+  </p>
+</div>
 
 ## My Joy and Whimsy
 
