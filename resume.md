@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AResume and CVbout
+title: Resume and CV
 permalink: /Resume and CV/
 ---
 
