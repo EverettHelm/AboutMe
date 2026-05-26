@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Whimmsy
+title: Personal
 permalink: /whimmsy/
 ---
 
 
-## Whimmsy
+## Personal
 
 ### Adventuring 
 

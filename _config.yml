@@ -33,9 +33,9 @@ data_social:
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Proffesional
     url: /about/
-  - title: Whimmsy
+  - title: Personal
     url: /whimmsy/
   - title: Contact
     url: /contact/
