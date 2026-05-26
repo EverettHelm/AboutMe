@@ -1,11 +1,11 @@
 ---
-layout: about
-title: My Interests outside of Acedemia 
+layout: page
+title: Whimmsy
 permalink: /whimmsy/
 ---
 
 
-## My Joy and Whimsy
+## Whimmsy
 
 ### Adventuring 
 
