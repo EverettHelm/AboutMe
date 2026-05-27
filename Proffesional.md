@@ -11,7 +11,7 @@ I am a fourth year undergraduate student at The Ohio State University with a dou
 
 I work with Dr. Kaeli Hughes on multiple projects on cosmic ray and ultra high energy neutrino detection. More information can be found below in "My Research". 
 
-When I am not studying or working I have an array of hobbies from traveling, music, climbing and more! Blogs about my trips and hobbies can be found below in "My Joy and Whimsy"
+When I am not studying or working I have an array of hobbies from traveling, music, climbing and more! Blogs about my trips and hobbies can be found below in "My Joy and Whimsy".
 
 
 ## My Research
@@ -49,7 +49,7 @@ Published paper: Insert at end of summer
 #### Dr. Chris Orbans's Lab (Jun 2024 - Aug 2024)
 <div markdown="1" style="padding-left: 2em;">
   <p style="margin-left: 1.25em; text-indent: 1.25em; margin: 0 0 1em 0;">
-    Collected data to train a machine learning algorithm for pulsed laser experimental setups. 
+    Collected data to train a machine learning algorithm for pulsed laser experimental setups. No major contributions.
   </p>
 </div>
 
